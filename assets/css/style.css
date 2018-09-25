@@ -1,0 +1,29 @@
+html,body,footer{
+     background-color: black;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+img{
+	display:inline-block;
+}
+
+div.container{
+	text-align: center;
+	width:auto;
+	overflow: hidden;
+}
+div.about{
+	width: 50%;
+	margin-left:20px;
+}
+#Aboutme,#contact{
+	background-color: white
+}
+footer{
+	text-align: center;
+}
