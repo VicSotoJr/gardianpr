@@ -1,6 +1,9 @@
 html,body,footer{
      background-color: black;
 }
+body.modal-open div.modal-backdrop {
+    z-index: 0;
+}
 .center {
     display: block;
     margin-left: auto;
