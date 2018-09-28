@@ -4,7 +4,6 @@ html,body,footer{
 body.modal-open div.modal-backdrop {
     z-index: 0;
 }
-
 .center {
     display: block;
     margin-left: auto;
@@ -16,12 +15,13 @@ img{
 }
 
 div.container{
+     height:75vh;
 	text-align: center;
 	width:auto;
 	overflow: hidden;
 }
 
-#Aboutme,#featured{
+#news,#featured{
 	background-color: black;
 }
 footer{
