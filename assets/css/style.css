@@ -10,17 +10,20 @@ body.modal-open div.modal-backdrop {
     margin-right: auto;
     width: 25%;
 }
+#snap {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 img{
 	display:inline-block;
 }
-
 div.container{
      height:75vh;
 	text-align: center;
 	width:auto;
 	overflow: hidden;
 }
-
 #news,#featured{
 	background-color: black;
 }
